@@ -1,2 +1,2 @@
 # DJANGO_APP_API
-project api
+this is just the sample of the api to come
